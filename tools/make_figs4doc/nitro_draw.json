@@ -1,0 +1,23 @@
+{
+  "title": "窒素",
+  "figures":[
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "NitrogenAssimilation"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "NitrogenTranslocationChoropalstBreakup"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SumOfNitrogenDistributionAmountOfLeafBlade"
+      ]
+    }
+  ]
+}

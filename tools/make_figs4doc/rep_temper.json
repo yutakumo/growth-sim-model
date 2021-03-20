@@ -1,0 +1,37 @@
+{
+  "title": "",
+  "figures":[
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "AveDaytimeTemperature",
+        "DaytimeTemperature"
+      ]
+    },
+    {
+      "ylabel": "[MJ/m2]",
+      "dbkey":[
+        "AveSolarRadiation",
+        "SolarRadiation"
+      ]
+    },
+    {
+      "ylabel": "[mm]",
+      "dbkey":[
+        "Rainfall",
+        "EvaporationFromWaterSurface",
+        "EvaporationFromLeafSurface",
+        "Osmosis",
+        "EarlyMorningWaterDepth",
+        "WaterDepthAfterWaterEntry"
+      ]
+    },
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "EarlyMorningWaterTemperature",
+        "EveningWaterTemperature"
+      ]
+    }
+  ]
+}

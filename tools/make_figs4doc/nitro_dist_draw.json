@@ -1,0 +1,16 @@
+{
+  "title": "窒素分配率",
+  "figures":[
+    {
+      "ylabel": "[%]",
+      "dbkey":[
+        "DnLeafBlade",
+        "DnLeafSheath",
+        "DnCulm",
+        "DnRootage",
+        "DnRoughRice",
+        "DnEndosperm"
+      ]
+    }
+  ]
+}

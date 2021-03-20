@@ -1,0 +1,42 @@
+{
+  "title": "",
+  "figures":[
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SnChemicalFertilizer",
+        "SnCoatedFertilizer",
+        "SnOrganicFertilizer",
+        "SnOrganicDecomposition",
+        "SnWater",
+        "SnRain",
+        "Denitrification",
+        "Loss"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SoilNitrogenConcentration"
+        ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "NitrogenAssimilation",
+        "NitrogenTranslocationChoropalstBreakup"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "QnLeafBlade",
+        "QnLeafSheath",
+        "QnCulm",
+        "QnRootage",
+        "QnSpike",
+        "QnEndosperm"
+      ]
+    }
+  ]
+}

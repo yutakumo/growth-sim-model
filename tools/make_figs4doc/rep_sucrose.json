@@ -1,0 +1,33 @@
+{
+  "title": "",
+  "figures":[
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "CarbonAssimilation",
+        "SucroseProductionTempTerm",
+        "SucroseProduction",
+        "SucroseConsumption",
+        "SucroseAccumulation"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SumOfSucroseAccumulation"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "QsLeafBlade",
+        "QsLeafSheath",
+        "QsCulm",
+        "QsRootage",
+        "QsSpike",
+        "QsRoughRice",
+        "QsEndosperm"
+      ]
+    }
+  ]
+}

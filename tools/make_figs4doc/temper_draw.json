@@ -1,0 +1,33 @@
+{
+  "title": "気象データ",
+  "figures":[
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "AveDaytimeTemperature",
+        "DaytimeTemperature"
+      ]
+    },
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "AveNighttimeTemperature",
+        "NighttimeTemperature"
+      ]
+    },
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "AveDiffTemperature",
+        "DiffTemperature"
+      ]
+    },
+    {
+      "ylabel": "[MJ/m2]",
+      "dbkey":[
+        "AveSolarRadiation",
+        "SolarRadiation"
+      ]
+    }
+  ]
+}

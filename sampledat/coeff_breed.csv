@@ -1,0 +1,3 @@
+﻿#葉身ショ糖要求の品種係数,葉鞘ショ糖要求の品種係数,稈ショ糖要求の品種係数,根ショ糖要求の品種係数,胚乳ショ糖要求の品種補正
+CoeffBreedLeafBlade,CoeffBreedLeafSheath,CoeffBreedCulm,CoeffBreedRootage,CoeffBreedEndosperm
+20,30.0,1.0,50.0,10

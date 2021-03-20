@@ -1,0 +1,14 @@
+{
+  "title": "成長",
+  "figures":[
+    {
+      "ylabel": "[%]",
+      "dbkey":[
+        "RedAbsorptionRate",
+        "EffectiveSunRayReceivingAreaRate",
+        "T19RedAbsorptionRate",
+        "T19EffectiveSunRayReceivingAreaRate"
+      ]
+    }
+  ]
+}

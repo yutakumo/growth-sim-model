@@ -1,0 +1,182 @@
+{
+  "title": "",
+  "figures":[
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "DaytimeTemperature",
+        "AveDaytimeTemperature"
+      ]
+    },
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "NighttimeTemperature",
+        "AveNighttimeTemperature"
+      ]
+    },
+     {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "DiffTemperature",
+        "AveDiffTemperature"
+      ]
+    },
+    {
+      "ylabel": "[MJ/m2]",
+      "dbkey":[
+        "SolarRadiation",
+        "AveSolarRadiation"
+      ]
+    },
+    {
+      "ylabel": "[mm]",
+      "dbkey":[
+        "Rainfall",
+        "EvaporationFromWaterSurface",
+        "EvaporationFromLeafSurface",
+        "Osmosis",
+        "EarlyMorningWaterDepth",
+        "WaterDepthAfterWaterEntry"
+      ]
+    },
+    {
+      "ylabel": "[℃]",
+      "dbkey":[
+        "EarlyMorningWaterTemperature",
+        "EveningWaterTemperature"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SnChemicalFertilizer",
+        "SnCoatedFertilizer",
+        "SnOrganicFertilizer",
+        "SnOrganicDecomposition",
+        "SnWater",
+        "SnRain",
+        "Denitrification",
+        "Loss"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SoilNitrogenConcentration"
+        ]
+    },
+    {
+      "ylabel": "[%]",
+      "dbkey":[
+          "EffectiveSunRayReceivingAreaRate",
+          "RedAbsorptionRate",
+          "T19EffectiveSunRayReceivingAreaRate",
+          "T19RedAbsorptionRate",
+          "IdealEffectiveSunRayReceivingAreaRate",
+          "IdealRedAbsorptionRate"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "CarbonAssimilation",
+        "SucroseProductionTempTerm",
+        "SucroseProduction",
+        "SucroseConsumption",
+        "SucroseAccumulation"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SumOfSucroseAccumulation"
+        ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "NitrogenAssimilation",
+        "NitrogenTranslocationChoropalstBreakup"
+        ]
+    },
+    {
+      "ylabel": "[num]",
+      "dbkey":[
+        "WeightLeafBlade",
+        "WeightLeafSheath",
+        "WeightCulm",
+        "WeightRootage",
+        "WeightSpike",
+        "WeightRoughRice",
+        "WeightEndosperm",
+        "WeightTotal"
+        ]
+    },
+    {
+      "ylabel": "[num]",
+      "dbkey":[
+        "NumberOfRoughRice"
+        ]
+    },
+    {
+      "ylabel": "[]",
+      "dbkey":[
+        "SoilOxygenConcentration"
+        ]
+    },
+    {
+      "ylabel": "[]",
+      "dbkey":[
+        "SumOfNitrogenDistributionAmountOfLeafBlade",
+        "SurfaceAreaOfLeafBlade"
+        ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "RsLeafBlade",
+        "RsLeafSheath",
+        "RsCulm",
+        "RsRootage",
+        "RsSpike",
+        "RsRoughRice",
+        "RsEndosperm"
+        ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "QsLeafBlade",
+        "QsLeafSheath",
+        "QsCulm",
+        "QsRootage",
+        "QsSpike",
+        "QsRoughRice",
+        "QsEndosperm"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "RnLeafBlade",
+        "RnLeafSheath",
+        "RnCulm",
+        "RnRootage",
+        "RnSpike",
+        "RnEndosperm"
+        ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "QnLeafBlade",
+        "QnLeafSheath",
+        "QnCulm",
+        "QnRootage",
+        "QnSpike",
+        "QnEndosperm"
+        ]
+    }
+  ]
+}

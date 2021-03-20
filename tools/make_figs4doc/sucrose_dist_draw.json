@@ -1,0 +1,16 @@
+{
+  "title": "ショ糖分配率",
+  "figures":[
+    {
+      "ylabel": "[%]",
+      "dbkey":[
+        "DsLeafBlade",
+        "DsLeafSheath",
+        "DsCulm",
+        "DsRootage",
+        "DsRoughRice",
+        "DsEndosperm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+[
+{
+    "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "name": "name",
+    "organic_fertilizer":
+    [
+        {
+            "rate": 2.5
+        }
+    ],
+    "chemical_fertilizer":
+    [
+        {
+            "rate": 2
+        }
+    ],
+    "coated_fertilizer":
+    [
+        {
+            "50_persent_elution": 30,
+            "rate": 1.5,
+            "ref_temperature": 25
+        },
+        {
+            "50_persent_elution": 80,
+            "rate": 3,
+            "ref_temperature": 25
+        }
+    ]
+},
+{
+    "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+    "name": "name",
+    "organic_fertilizer":
+    [
+    ],
+    "chemical_fertilizer":
+    [
+        {
+            "rate": 45
+        }
+    ],
+    "coated_fertilizer":
+    [
+    ]
+},
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaa11",
+  "name": "基肥一発1号",
+  "organic_fertilizer":
+  [
+      {
+          "rate": 5.1
+      }
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 1.0
+      }
+  ],
+  "coated_fertilizer":
+  [
+      {
+          "50_persent_elution": 60,
+          "rate": 3.9,
+          "ref_temperature": 25
+      }
+  ]
+},
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaa21",
+  "name": "らくだ君有機一発200",
+  "organic_fertilizer":
+  [
+      {
+          "rate": 6.1
+      }
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 2.8
+      }
+  ],
+  "coated_fertilizer":
+  [
+      {
+          "50_persent_elution": 90,
+          "rate": 3.1,
+          "ref_temperature": 25
+      }
+  ]
+},
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaa22",
+  "name": "飼料用一発肥料",
+  "organic_fertilizer":
+  [
+      {
+          "rate": 0
+      }
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 12
+      }
+  ],
+  "coated_fertilizer":
+  [
+      {
+          "50_persent_elution": 70,
+          "rate": 13,
+          "ref_temperature": 25
+      }
+  ]
+},
+{
+  "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbb21",
+  "name": "NK化成C68",
+  "organic_fertilizer":
+  [
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 16
+      }
+  ],
+  "coated_fertilizer":
+  [
+  ]
+},
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaa31",
+  "name": "ハイチッソ一発25",
+  "organic_fertilizer":
+  [
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 12.25
+      }
+  ],
+  "coated_fertilizer":
+  [
+      {
+          "50_persent_elution": 70,
+          "rate": 6.5,
+          "ref_temperature": 25
+      },
+      {
+          "50_persent_elution": 45,
+          "rate": 6.25,
+          "ref_temperature": 25
+      }
+  ]
+},
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaa32",
+  "name": "コープペースト222P",
+  "organic_fertilizer":
+  [
+      {
+          "rate": 0
+      }
+  ],
+  "chemical_fertilizer":
+  [
+      {
+          "rate": 12
+      }
+  ],
+  "coated_fertilizer":
+  [
+  ]
+}
+]

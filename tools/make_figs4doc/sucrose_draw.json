@@ -1,0 +1,26 @@
+{
+  "title": "ショ糖生成",
+  "figures":[
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "CarbonAssimilation",
+        "SucroseProductionTempTerm"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SucroseProduction",
+        "SucroseConsumption",
+        "SucroseAccumulation"
+      ]
+    },
+    {
+      "ylabel": "[g/m2]",
+      "dbkey":[
+        "SumOfSucroseAccumulation"
+      ]
+    }
+  ]
+}
